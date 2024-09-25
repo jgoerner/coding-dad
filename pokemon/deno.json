@@ -3,7 +3,6 @@
     "catchThemAll": "deno run --allow-net --allow-write main.ts --shortenerBaseUrl https://uqr.to/1oe"
   },
   "imports": {
-    "@b-fuze/deno-dom": "jsr:@b-fuze/deno-dom@^0.1.48",
     "@std/assert": "jsr:@std/assert@1",
     "@std/cli": "jsr:@std/cli@^1.0.6",
     "@std/csv": "jsr:@std/csv@^1.0.3",

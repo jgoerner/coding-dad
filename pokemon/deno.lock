@@ -47,7 +47,6 @@
   },
   "workspace": {
     "dependencies": [
-      "jsr:@b-fuze/deno-dom@^0.1.48",
       "jsr:@std/assert@1",
       "jsr:@std/cli@^1.0.6",
       "jsr:@std/csv@^1.0.3"
