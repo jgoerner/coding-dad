@@ -56,11 +56,11 @@ This project demonstrates how a seemingly random raffle system can be systematic
 
 
 
-# Reverse Engineering a Pokemon Lottery
+# Reverse Engineering a Pokemon Raffle
 
 >  A tale on childlike curiosity turning into a lesson about information security 🔐
 
-This repo contains the code for the article [Reverse Engineering a Pokemon Lottery]()
+This repo contains the code for the article [Reverse Engineering a Pokemon Raffle]()
 
 ## How to run
 
